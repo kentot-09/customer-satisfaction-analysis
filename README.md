@@ -3,6 +3,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![GitHub](https://img.shields.io/github/license/your-username/customer-satisfaction-analysis)
 ![Dataset](https://img.shields.io/badge/dataset-1000_records-blue)
+Data Set Source: https://www.kaggle.com/datasets/ziya07/customer-experience-dataset
 
 An R-based analysis of customer satisfaction scores with statistical visualization.
 
@@ -21,4 +22,4 @@ An R-based analysis of customer satisfaction scores with statistical visualizati
 ### Quick Start
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/customer-satisfaction-analysis.git
+   git clone https://github.com/kentot-09/customer-satisfaction-analysis
